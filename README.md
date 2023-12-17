@@ -7,6 +7,14 @@
 ¡Hola a todos! Soy un programador junior con habilidades en el apartado frontend, incluyendo experiencia en JavaScript, CSS, HTML, C++, Java y conocimientos básicos en Python. Mi pasión es la tecnología y el aprendizaje constante, con un interés especial en la inteligencia artificial y la creación de tecnologías biónicas que mejoren la vida de las personas.
 </p>
 
+<h2 align="center">Badges</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Programming-000000?style=flat&logoColor=white" alt="Programming Badge"/>
+  <img src="https://img.shields.io/badge/-Design-000000?style=flat&logoColor=white" alt="Design Badge"/>
+  <img src="https://img.shields.io/badge/-Creative-000000?style=flat&logoColor=white" alt="Creative Badge"/>
+</p>
+
 <h2 align="center">Lenguajes y Herramientas</h2>
 
 <p align="center">
