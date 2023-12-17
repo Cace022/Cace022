@@ -6,3 +6,14 @@
 <p align="center">
 ¡Hola a todos! Soy un programador junior con habilidades en el apartado frontend, incluyendo experiencia en JavaScript, CSS, HTML, C++, Java y conocimientos básicos en Python. Mi pasión es la tecnología y el aprendizaje constante, con un interés especial en la inteligencia artificial y la creación de tecnologías biónicas que mejoren la vida de las personas.
 </p>
+
+## Lenguajes y Herramientas
+
+<p align="center">
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
+  <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/></a>
+  <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
+  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a>
+  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+</p>
