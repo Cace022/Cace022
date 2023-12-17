@@ -24,6 +24,7 @@
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
 </p>
 
+<h2 align="center">Mis estadisticas</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cace022&layout=pie" alt="Top Langs">
