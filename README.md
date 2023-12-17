@@ -7,7 +7,7 @@
 ¡Hola a todos! Soy un programador junior con habilidades en el apartado frontend, incluyendo experiencia en JavaScript, CSS, HTML, C++, Java y conocimientos básicos en Python. Mi pasión es la tecnología y el aprendizaje constante, con un interés especial en la inteligencia artificial y la creación de tecnologías biónicas que mejoren la vida de las personas.
 </p>
 
-## Lenguajes y Herramientas
+<h2 align="center">Lenguajes y Herramientas</h2>
 
 <p align="center">
   <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
