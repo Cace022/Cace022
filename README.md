@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" alt="Nombre del GIF" />
 <h1 align="center">BIENVENIDO</h1>
-<h3 align="center">ようこそ</h3>
+<h1 align="center">ようこそ</h1>
 
 <!--
 **Cace022/Cace022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
