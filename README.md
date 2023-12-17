@@ -25,5 +25,7 @@
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cace022&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cace022&layout=pie" alt="Top Langs">
+  </a>
 </p>
