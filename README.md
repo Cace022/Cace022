@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" alt="Nombre del GIF" width="900" height="400"/>
+<img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" alt="Nombre del GIF" />
+
 
 <!--
 **Cace022/Cace022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
