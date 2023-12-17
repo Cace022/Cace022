@@ -15,6 +15,7 @@
 </p>
 
 <h2 align="center">LENGUAJES Y HERRAMIENTAS</h2>
+<h3 align="center">言語とツール</h3>
 <p align="center">
   <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
@@ -25,6 +26,7 @@
 </p>
 
 <h2 align="center">MIS ESTADISTICAS</h2>
+<h3 align="center">統計学</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cace022&layout=pie" alt="Top Langs">
