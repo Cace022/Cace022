@@ -25,11 +25,11 @@
 </p>
 
 <h2 align="center">MIS ESTADISTICAS</h2>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: flex-end;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cace022&theme=dark&show_icons=true" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cace022&theme=white&show_icons=true" alt="Anurag's GitHub stats" style="margin-right: 20px;">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cace022&layout=pie" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cace022&layout=pie&theme=white" alt="Top Langs" style="margin-left: 20px;">
   </a>
 </div>
