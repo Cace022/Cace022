@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/-Creative-red?style=flat&logoColor=white" alt="Creative Badge" height="30"/>
 </p>
 
-<p align="center">
 <h2 align="center">Lenguajes y Herramientas</h2>
-
 <p align="center">
   <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
