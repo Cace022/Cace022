@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/-Creative-red?style=flat&logoColor=white" alt="Creative Badge" height="30"/>
 </p>
 
+<p align="center">
 <h2 align="center">Lenguajes y Herramientas</h2>
 
 <p align="center">
